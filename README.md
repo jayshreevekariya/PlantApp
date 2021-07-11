@@ -1,4 +1,4 @@
-# plantapp
+# PlantApp
 
 UI Showcase Flutter project.
 
